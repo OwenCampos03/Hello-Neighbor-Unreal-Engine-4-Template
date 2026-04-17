@@ -5,7 +5,8 @@ Developed with Unreal Engine 4.27
 [Understand Unreal Engine 4.27](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-4-27-documentation?application_version=4.27)
 
 # Contribution
-+ Owen Campos 
++ Owen Campos
++ DeadSyntaxdev
 + JayTheFrog
 + JacketTheCrowinator
 + joshSoundZ
