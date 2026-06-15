@@ -7,6 +7,5 @@ Developed with Unreal Engine 4.27
 # Contribution
 + Owen Campos
 + DeadSyntaxdev
-+ JayTheFrog
 + JacketTheCrowinator
 + joshSoundZ
